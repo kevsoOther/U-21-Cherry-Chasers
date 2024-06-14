@@ -46,7 +46,6 @@ Toplantı ve Whatsapp ScreenShotları <blockquote class="imgur-embed-pub" lang="
 - **Tasarım Grubu Üyeleri**: Arif, Kevser, Hilal.
 - **Sprint 1 board update**: Sprint Board Screenshot: 
 <img width="1179" alt="Trello 1  Sprint" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/4802c0e5-d5ca-4d28-90d1-243e742f5974">
-![notion](https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/4508ed23-4521-4e7d-9891-7f6b08206f86)
 
 
 - **Ürün Durumu**: Ekran Görüntüleri:
