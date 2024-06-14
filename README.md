@@ -147,7 +147,11 @@ Toplantı ve Whatsapp ScreenShotları <blockquote class="imgur-embed-pub" lang="
 
 ![dally](https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/c2702301-d51c-4dd2-9141-c8c14cd4a87e)
 
-  
+
+** Final Video**:
+[![Cherry Chasers Trailer](https://img.youtube.com/vi/OSBA1BF4d9s/0.jpeg)](https://www.youtube.com/watch?v=OSBA1BF4d9s)
+
+
 - **Sprint Review**: 
 
   - Takım ruhunu koruyup Scrum boyunca özveriyle çalışıldığı için takım üyeleri birbirini tebrik etti.
