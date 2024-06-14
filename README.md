@@ -45,14 +45,15 @@ Toplantı ve Whatsapp ScreenShotları <blockquote class="imgur-embed-pub" lang="
 - **Tasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.
 - **Tasarım Grubu Üyeleri**: Arif, Kevser, Hilal.
 - **Sprint 1 board update**: Sprint Board Screenshot: 
-![Backlog 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/IMG-20230618-WA0007.jpg)
+<img width="1179" alt="Trello 1  Sprint" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/4802c0e5-d5ca-4d28-90d1-243e742f5974">
+![notion](https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/4508ed23-4521-4e7d-9891-7f6b08206f86)
+
 
 - **Ürün Durumu**: Ekran Görüntüleri:
-  ![Screenshot 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/IMG-20230618-WA0010.jpg)
-  ![Screenshot 2](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/IMG-20230618-WA0009.jpg)
-  ![Screenshot 3](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/Ekran%20Resmi%202023-06-19%2000.53.39.png)
-  ![Screenshot 4](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/image.png)
-
+![I╠çlk Karakter](https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/bcbc097b-10e1-44de-88f6-e6e2618a6f1e)
+<img width="1293" alt="Map Taslak" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/bdcd68e9-aa61-4fa6-a0f3-a5fe2e12e614">
+<img width="1366" alt="Toplant─▒ 1" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/05b64c35-0c20-434f-af61-1eca31360159">
+<img width="570" alt="Ekran Resmi 2023-06-19 00 53 39" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/470f574d-fe67-478d-b228-32d885e2c156">
 
 
   ![GIF 1](https://i.imgur.com/7a7pykI.gif)
