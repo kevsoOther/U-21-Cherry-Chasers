@@ -80,6 +80,8 @@ Toplantı ve Whatsapp ScreenShotları <blockquote class="imgur-embed-pub" lang="
   - **Toplantı ve Whatsapp ScreenShotları**:
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/12umyrv"  ><a href="//imgur.com/a/12umyrv">SPRINT2</a></blockquote>
 
+- **Referans Gorsel**:
+- <img width="806" alt="Ekran Resmi 2023-06-24 20 52 33" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/c8a21170-f68a-4aa4-9798-dec65b7207a7">
 
 
 - **Sprint 2 board update**: Sprint 2 Board Screenshot: 
@@ -90,14 +92,9 @@ Toplantı ve Whatsapp ScreenShotları <blockquote class="imgur-embed-pub" lang="
 
 
 
+
 - **Ürün Durumu**: Ekran Görüntüleri:
-<img width="406" alt="Ekran Resmi 2023-07-03 00 22 48" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/fd378dc6-4960-475d-a062-0114d4c925d7">
-<img width="655" alt="Ekran Resmi 2023-07-03 00 23 13" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/cf454265-dfa1-4cea-819f-a457208154ac">
-<img width="600" alt="Ekran Resmi 2023-07-03 00 49 54" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/a1a072af-b5ae-48e4-9ab7-55ffe6586dc9">
-<img width="917" alt="Ekran Resmi 2023-07-03 00 50 31" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/fd11f629-222f-4555-bf98-90208cc0aaca">
-<img width="734" alt="Ekran Resmi 2023-07-03 00 56 12" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/3a0644d2-6b91-4823-8838-3c038eab318f">
-<img width="1250" alt="Ekran Resmi 2023-07-03 00 59 28" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/20d553cd-d69a-41ed-a291-c762a063f4a4">
-<img width="1284" alt="Ekran Resmi 2023-07-03 00 59 54" src="https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/9df83937-a920-4fff-9f75-621012c117a2">
+
 
 
 
