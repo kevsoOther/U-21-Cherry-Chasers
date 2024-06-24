@@ -162,6 +162,10 @@ Toplantı ve Whatsapp ScreenShotları <blockquote class="imgur-embed-pub" lang="
 
 - **Sprint Retrospective:**
 
+
+
+![dondurmaci arabasi ](https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/72b78723-6ac9-4e08-a7a0-686e5c3772ed)
+
   - Gelecek projelerde iletişimde kalınacağına dair konuşmalar yapıldı.
  
     
